@@ -2,6 +2,7 @@
 #define Matrix_H
 #include "QVector"
 #include "QDebug"
+
 class Matrix
 {
 public:

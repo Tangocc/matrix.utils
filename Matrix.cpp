@@ -189,8 +189,7 @@ Matrix Matrix::Inverse()
     return  result;
 }
 
-//   单位阵
-
+//   单位矩阵
 Matrix Matrix::ones(int row, int col)
 {
     Matrix result;

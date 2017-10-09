@@ -1,2 +1,2 @@
 # MatrixUtils
-It is the tools that used to solve Matrix Problems,such as transpose ,inverse the matrx.based on C++.
+C++实现的矩阵工具类，包含逆矩阵、转置矩阵、矩阵乘法等。
