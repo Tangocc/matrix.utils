@@ -16,7 +16,7 @@ public:
 public:
     int rows;
     int columns;
-    QVector<QVector<double> > matrixs;
+    QVector<QVector<double>> matrixs;
 public:
 
     //静态成员，通过类名引用，返回矩阵，方便链式编程
